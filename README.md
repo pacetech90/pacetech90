@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pace Tech</h1>
 <h3 align="center">A passionate frontend developer from Papua, Indonesia</h3>
 
-- 🌱 I’m currently learning **Framework** <a href="https://www.laravel.com" target="_blank">Laravel</a>
+- 🌱 I’m currently learning **Framework** <a href="https://www.laravel.com"> Laravel</a>
 
 - 📫 How to reach me **pace.teluk90@gmail.com**
 
