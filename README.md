@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+%F0%9F%91%8B%2C+I'm+[Your+Name];Laravel+%26+Next.js+Enthusiast;Full-Stack+Web+Developer;Database+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+%F0%9F%91%8B%2C+I'm+[DEV PACE];Laravel+%26+Next.js+Enthusiast;Full-Stack+Web+Developer;Database+Architect" alt="Typing SVG" />
 </div>
 
 <!-- Snake Animation -->
@@ -91,15 +91,15 @@ I'm a passionate **Full-Stack Web Developer** with expertise in building modern,
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/[username]">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username]&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true" />
+  <a href="https://github.com/pacetech90">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[pactech90]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pactech90&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/[username]">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=[username]&theme=tokyonight&hide_border=true&border_radius=10" />
+  <a href="https://github.com/pacetech90">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=[pacetech90]&theme=tokyonight&hide_border=true&border_radius=10" />
   </a>
 </div>
 
@@ -109,8 +109,8 @@ I'm a passionate **Full-Stack Web Developer** with expertise in building modern,
 ## 📈 Contribution Graph
 
 <div align="center">
-  <a href="https://github.com/[username]">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=[username]&theme=react-dark&bg_color=0f172a&hide_border=true&area=true" width="95%" />
+  <a href="https://github.com/pacetech90">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pacetech90&theme=react-dark&bg_color=0f172a&hide_border=true&area=true" width="95%" />
   </a>
 </div>
 
@@ -120,11 +120,11 @@ I'm a passionate **Full-Stack Web Developer** with expertise in building modern,
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25px"> Featured Projects
 
 <div align="center">
-  <a href="https://github.com/[username]/[project1]">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[username]&repo=[project1]&theme=tokyonight&border_radius=10&hide_border=true" />
+  <a href="https://github.com/pacetech90/[project1]">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pacetech90&repo=[project1]&theme=tokyonight&border_radius=10&hide_border=true" />
   </a>
-  <a href="https://github.com/[username]/[project2]">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[username]&repo=[project2]&theme=tokyonight&border_radius=10&hide_border=true" />
+  <a href="https://github.com/pacetech90/[project2]">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pacetech90&repo=[project2]&theme=tokyonight&border_radius=10&hide_border=true" />
   </a>
 </div>
 
@@ -154,7 +154,6 @@ I'm a passionate **Full-Stack Web Developer** with expertise in building modern,
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[username]&style=for-the-badge&color=38BDF8" alt="Profile Views" />
   
   **⭐️ From [PACE TECH](https://github.com/pacetech90)**
 </div>
