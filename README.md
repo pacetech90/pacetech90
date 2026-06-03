@@ -92,14 +92,14 @@ I'm a passionate **Full-Stack Web Developer** with expertise in building modern,
 
 <div align="center">
   <a href="https://github.com/pacetech90">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[pactech90]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pactech90&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pactech90&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/pacetech90">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=[pacetech90]&theme=tokyonight&hide_border=true&border_radius=10" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pacetech90&theme=tokyonight&hide_border=true&border_radius=10" />
   </a>
 </div>
 
