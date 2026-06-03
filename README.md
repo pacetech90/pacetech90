@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+%F0%9F%91%8B%2C+I'm+DEV PACE;Laravel+%26+Next.js+Enthusiast;Full-Stack+Web+Developer;Database+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+%F0%9F%91%8B%2C+I'm+DEV+PACE;Laravel+%26+Next.js+Enthusiast;Full-Stack+Web+Developer;Database+Architect" alt="Typing SVG" />
 </div>
 
 <!-- Snake Animation -->
